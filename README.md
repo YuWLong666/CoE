@@ -6,6 +6,6 @@ The pdf is available at https://arxiv.org/abs/2503.15234.
 
 The author is defending his doctoral dissertation.
 All codes will be made public soon.
-No later than the CVPR meeting time.
+No later than the end of this month.
 If you have any questions, please email me.
 
