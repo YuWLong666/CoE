@@ -1,6 +1,6 @@
 
 
-# [***CoE (Chain-of-Explanation)***](https://arxiv.org/pdf/2503.15234) (***<u>CVPR 2025</u>***)
+# [***CoE (Chain-of-Explanation)***](https://arxiv.org/pdf/2503.15234) (***<u>CoE: Chain-of-Explanation via Automatic Visual Concept Circuit Description and Polysemanticity Quantification</u>***)
 
 [***CoE (Chain-of-Explanation)***](https://arxiv.org/pdf/2503.15234) (Published in ***<u>CVPR 2025</u>***) is a versatile concept based deep model explainer that establishes a systematical explanation framework from both global and local perspectives. It tackles the challenges of the inflexibility to automatically construct concept explanation datasets, insufficient linguistic explanations, and the weakness in managing concept polysemanticity of concept-based XAI methods.
 
