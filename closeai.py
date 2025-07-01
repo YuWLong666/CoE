@@ -8,8 +8,8 @@ import base64
 """**********************************Import***********************************"""
 '''***************************************************************************'''
 
-GPT_API_KEY = "sk-16HeMBpDnhM36IoH2haRIeMofIL6uyGkf67V2lIKlTtXAa0x"
-GPT_BASE_URL = 'https://api.openai-proxy.org/v1'
+GPT_API_KEY = ""
+GPT_BASE_URL = ''
 
 
 class CalendarEvent(BaseModel):
